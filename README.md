@@ -40,6 +40,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
 </p>
+---
+### 📊 GitHub Stats:
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanvlad95&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=romanvlad95&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvlad95&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
