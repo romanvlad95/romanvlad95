@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Vladislav 👋</h1>
+<h3 align="center">A passionate Python Developer</h3>
 
-<!--
-**romanvlad95/romanvlad95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **building scalable backend systems.**  
+- 💬 Ask me about **Python, Async, GraphQL, Docker, Kafka, FastAPI, and Microservices.**  
+- 📫 Reach me at **vromaliysky@gmail.com**  
+- ⚡ Fun fact: **I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+    </a> 
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> 
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a> 
+    <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamodb" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vromaliysky&theme=tokyonight" alt="vromaliysky" />
+</p>
+
+---
+
+<h3 align="left">📣 Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/vromaliysky/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
