@@ -4,8 +4,8 @@
 ---
 
 - 🔭 I'm currently working on **building scalable backend systems.**  
-- 💬 Ask me about **Python, Async, GraphQL, Docker, Kafka, FastAPI, and Microservices.**  
-- 📫 Reach me at **vromaliysky@gmail.com**  
+- 💬 Ask me about **Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.**  
+- 📫 Reach me at **romaliiskii.v@gmail.com**  
 - ⚡ Fun fact: **I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.**  
 
 ---
@@ -39,13 +39,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vromaliysky&theme=tokyonight" alt="vromaliysky" />
 </p>
 
 ---
