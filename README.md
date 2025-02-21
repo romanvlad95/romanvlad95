@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Python Developer</h3>
 
 
-<h3 align="left">🚀 About Me:</h3>
-<ul align="left">
+<h3 align="center">🚀 About Me:</h3>
+<ul align="center">
     <li>🔭 I'm currently working on building scalable backend systems.</li>
     <li>💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</li>
     <li>📫 Reach me at <a href="mailto:romaliiskii.v@gmail.com">romaliiskii.v@gmail.com</a></li>
@@ -52,8 +52,8 @@
 </p>
 
 
-<h3 align="left">📣 Connect with me:</h3>
-<p align="left">
+<h3 align="center">📣 Connect with me:</h3>
+<p align="center">
     <a href="https://www.linkedin.com/in/vromaliysky" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
