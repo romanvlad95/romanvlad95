@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Vladislav 👋</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
----
+
 
 - 🔭 I'm currently working on building scalable backend systems.  
 - 💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.
 - 📫 Reach me at **romaliiskii.v@gmail.com**  
 - ⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,7 +40,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
 </p>
----
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=romanvlad95&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvlad95&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 <h3 align="left">📣 Connect with me:</h3>
 <p align="left">
