@@ -2,12 +2,14 @@
 <h3 align="center">A passionate Python Developer</h3>
 
 
-<a align="center">  
-  - 🔭 I'm currently working on building scalable backend systems.  
-  - 💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.
-  - 📫 Reach me at romaliiskii.v@gmail.com  
-  - ⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.
-</a>
+<h3 align="left">🚀 About Me:</h3>
+<ul align="left">
+    <li>🔭 I'm currently working on building scalable backend systems.</li>
+    <li>💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</li>
+    <li>📫 Reach me at <a href="mailto:romaliiskii.v@gmail.com">romaliiskii.v@gmail.com</a></li>
+    <li>⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.</li>
+</ul>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
