@@ -3,10 +3,10 @@
 
 
 
-- 🔭 I'm currently working on building scalable backend systems.  
-- 💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.
-- 📫 Reach me at **romaliiskii.v@gmail.com**  
-- ⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.
+                    - 🔭 I'm currently working on building scalable backend systems.  
+                    - 💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.
+                    - 📫 Reach me at **romaliiskii.v@gmail.com**  
+                    - ⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.
 
 
 
