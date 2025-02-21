@@ -3,10 +3,10 @@
 
 ---
 
-- 🔭 I'm currently working on **building scalable backend systems.**  
-- 💬 Ask me about **Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.**  
+- 🔭 I'm currently working on building scalable backend systems.  
+- 💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML and Microservices.
 - 📫 Reach me at **romaliiskii.v@gmail.com**  
-- ⚡ Fun fact: **I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.**  
+- ⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.
 
 ---
 
@@ -41,12 +41,6 @@
     </a>
 </p>
 ---
-### 📊 GitHub Stats:
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanvlad95&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=romanvlad95&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
