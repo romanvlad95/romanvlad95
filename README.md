@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#4A90E2;">Hi there, I'm Vladislav 👋</h1>
-<h3 align="center" style="color:#50E3C2;">A passionate Python Developer</h3>
+<h3 align="center" style="color:#50E3C2;">A Python Developer</h3>
 
 ---
 
