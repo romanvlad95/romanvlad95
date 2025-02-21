@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 
 <div class="container text-center mt-4">
-    <h3 class="text-primary">🚀 About Me:</h3>
+    <h3 align="center" class="text-primary">🚀 About Me:</h3>
     <ul class="list-group list-group-flush d-inline-block text-start">
         <li class="list-group-item">🔭 I'm currently working on building scalable backend systems.</li>
         <li class="list-group-item">💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</li>
@@ -14,8 +14,8 @@
     </ul>
 </div>
 
-<h3 class="text-center mt-4 text-success">Languages and Tools:</h3>
-<div class="d-flex justify-content-center flex-wrap gap-3">
+<h3 align="center" class="text-center mt-4 text-success">Languages and Tools:</h3>
+<div align="center" class="d-flex justify-content-center flex-wrap gap-3">
     <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     </a>
@@ -63,18 +63,18 @@
     </a>
 </div>
 
-<h3 class="text-center mt-4 text-info">📊 GitHub Stats:</h3>
+<h3 align="center" class="text-center mt-4 text-info">📊 GitHub Stats:</h3>
 <div class="text-center">
     <img src="https://github-readme-stats.vercel.app/api?username=romanvlad95&show_icons=true&theme=tokyonight" alt="GitHub Stats" class="rounded shadow-lg"/>
 </div>
 
-<h3 class="text-center mt-4 text-warning">📊 Top Languages:</h3>
-<div class="text-center">
+<h3 align="center" class="text-center mt-4 text-warning">📊 Top Languages:</h3>
+<div  align="center" class="text-center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvlad95&layout=compact&theme=tokyonight" alt="Top Languages" class="rounded shadow-lg"/>
 </div>
 
-<h3 class="text-center mt-4 text-secondary">📣 Connect with me:</h3>
-<div class="text-center">
+<h3 align="center" class="text-center mt-4 text-secondary">📣 Connect with me:</h3>
+<div align="center" class="text-center">
     <a href="https://www.linkedin.com/in/vromaliysky" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
     </a>
