@@ -4,7 +4,7 @@
 ---
 
 <h3 align="center">🚀 About Me:</h3>
-<div align="center">
+<div align="left">
     <ul style="text-align: left; display: inline-block; list-style-type: none; padding: 0;">
         <li>🔭 I'm currently working on <b>building scalable backend systems.</b></li>
         <li>💬 Ask me about <b>Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</b></li>
