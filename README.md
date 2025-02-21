@@ -51,7 +51,7 @@
 
 
 
-<h3 align="center">📣 Connect with me:</h3>
-<a align="center" href="https://www.linkedin.com/in/vromaliysky" target="_blank" rel="noopener noreferrer">
+<h3 align="left">📣 Connect with me:</h3>
+<a align="left" href="https://www.linkedin.com/in/vromaliysky" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
