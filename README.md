@@ -3,12 +3,15 @@
 
 
 <h3 align="center">🚀 About Me:</h3>
-<ul align="center">
-    <li>🔭 I'm currently working on building scalable backend systems.</li>
-    <li>💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</li>
-    <li>📫 Reach me at <a href="mailto:romaliiskii.v@gmail.com">romaliiskii.v@gmail.com</a></li>
-    <li>⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.</li>
-</ul>
+<div align="center">
+    <ul style="text-align: left; display: inline-block;">
+        <li>🔭 I'm currently working on building scalable backend systems.</li>
+        <li>💬 Ask me about Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</li>
+        <li>📫 Reach me at <a href="mailto:romaliiskii.v@gmail.com">romaliiskii.v@gmail.com</a></li>
+        <li>⚡ Fun fact: I enjoy running, hiking, reading, playing guitar, and hosting intellectual shows.</li>
+    </ul>
+</div>
+
 
 
 
