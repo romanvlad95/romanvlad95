@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#4A90E2;">Hi there, I'm Vladislav 👋</h1>
 <h3 align="center" style="color:#50E3C2;">Backend Software Engineer | Python · Kafka · FastAPI</h3>
 
-
+---
 
 <h3 align="center">🚀 About Me</h3>
 <div align="left">
@@ -15,7 +15,7 @@
     </ul>
 </div>
 
-
+---
 
 <h3 align="center">💻 Core Tech Stack</h3>
 <p align="center">
@@ -45,7 +45,7 @@
     </a>
 </p>
 
-
+---
 
 <h3 align="center">🧠 Additional Experience</h3>
 <p align="center">
@@ -69,7 +69,7 @@
     </a>
 </p>
 
-
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanvlad95&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
+---
 
 <h3 align="center">📣 Connect with Me</h3>
 <p align="center">
