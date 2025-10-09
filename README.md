@@ -1,15 +1,16 @@
 <h1 align="center" style="color:#4A90E2;">Hi there, I'm Vladislav 👋</h1>
-<h3 align="center" style="color:#50E3C2;">A Python Developer</h3>
+<h3 align="center" style="color:#50E3C2;">Backend Developer | Python · Kafka · FastAPI</h3>
 
 ---
 
 <h3 align="center">🚀 About Me:</h3>
 <div align="left">
     <ul style="text-align: left; display: inline-block; list-style-type: none; padding: 0;">
-        <li>🔯 I'm currently working on <b>building scalable backend systems.</b></li>
-        <li>💬 Ask me about <b>Python, Async, GraphQL, Docker, Kafka, FastAPI, ML, and Microservices.</b></li>
+        <li>🔧 Building <b>event-driven systems</b> with <b>Kafka</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>.</li>
+        <li>💬 Ask me about <b>Python, AsyncIO, Kafka, Docker, CI/CD, ETL pipelines, and microservice architecture.</b></li>
+        <li>📦 Currently developing <b>LedgerFlow</b> — a CQRS + Event Sourcing system using Kafka.</li>
         <li>📧 Reach me at <a href="mailto:romaliiskii.v@gmail.com" style="color:#50E3C2;">romaliiskii.v@gmail.com</a></li>
-        <li>⚡ Fun fact: I enjoy <b>running, hiking, reading, playing guitar, and hosting intellectual shows.</b></li>
+        <li>⚡ Fun fact: I find balance between <b>code, travel, and philosophy</b>.</li>
     </ul>
 </div>
 
@@ -22,24 +23,6 @@
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/> 
-    </a> 
-    <a href="https://graphql.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/> 
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-    </a>
-    <a href="https://react.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> 
     </a>
     <a href="https://kafka.apache.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/> 
@@ -47,14 +30,20 @@
     <a href="https://www.postgresql.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> 
     </a> 
-    <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+    <a href="https://www.docker.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> 
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
     </a>
     <a href="https://www.linux.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
+    </a>
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
     </a>
 </p>
 
