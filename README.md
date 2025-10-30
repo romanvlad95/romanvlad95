@@ -84,7 +84,7 @@
 
 <h3 align="center">📣 Connect with Me</h3>
 <p align="center">
-    <a href="www.linkedin.com/in/vromaliysky" target="_blank">
+    <a href="[www.linkedin.com/in/vromaliysky](https://www.linkedin.com/in/vromaliysky/)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </p>
